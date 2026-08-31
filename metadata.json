@@ -1,0 +1,6 @@
+{
+  "name": "TUMID CALANG TRADING",
+  "description": "Premium supplier of concrete blocks, pavers, cement, aggregates, steel, and quality building materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
